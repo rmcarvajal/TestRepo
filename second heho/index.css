@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(17, 61, 110);
+    background-color: rgb(140, 205, 235);
+    width: 50%;
+}
+
+.sub {
+    color: hotpink;
+    background-color: black;
+    padding: 10px;
+}
+
+#shmell {
+    color: red;
+    background-color: darksalmon;
+    margin: 10px;
+}
