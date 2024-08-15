@@ -1,0 +1,71 @@
+.blue{
+    background-color: rgb(0, 17, 255);
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+.box{
+    background-color: black;
+    display: flex;
+    width: 50%;
+    height: 700px;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+}
+.blue2{
+    background-color: rgb(0, 17, 255);
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;}
+    
+body{
+    background-color: chartreuse;
+    display: flex;
+    height: 200vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0%;
+    margin: 0%;
+}
+.bings{
+    background-color: deepskyblue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bongs{
+    background-color: rgb(255, 255, 255);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+nav{
+    background-color: aquamarine;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ball{
+    background-color: burlywood;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 24px;
+    bottom: 24px;
+}
